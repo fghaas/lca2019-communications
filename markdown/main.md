@@ -1,30 +1,30 @@
-# Main title
-
-Note: Add main section slides here.
-
-
-## Level 2 heading
-
-Some additional information
+A distributed team is a professional group whose members **do not rely
+on physical proximity** in order to **routinely collaborate
+productively.**
 
 
-### Level 3 heading
-
-* A bullet list.
-* Use these sparingly.
+Being productive in a distributed team is a skill that most people
+must **learn;** it is not innate to us.
 
 
-Just some text
+**Nothing** has as dire an impact on productivity as **poor
+communications.**
 
-```bash
-#!/bin/sh
 
-# This is a code snippet.
-# It comes with syntax highlighting.
+Working in a distributed team means **working asynchronously.**
 
-NUM=5
 
-for i in `seq $NUM`; do
-  echo "hello world $i"
-done
-```
+A distributed team must **habitually externalise** information.
+
+
+|                   | Share | Find | Contextualise |
+| ----------------  | :---: | :--: |               |
+| Chat (IRC, Slack) | 🙂    | 😐   | 🙁            |
+| Wiki              | 🙂    | 🙂   | 🙂            |
+| Email             | 😐    | 🙁   | 🙂            |
+| Issue tracker     | 🙂    | 🙂   | 🙂            |
+| Video Call        | 😐    | 🙁   | 🙁            |
+
+
+The only reason to use chat and video for collaboration is a need for
+immediate, interactive mutual feedback. 
