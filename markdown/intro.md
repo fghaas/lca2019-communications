@@ -27,7 +27,7 @@ So I think I might have seen and been aware of some of the rather
 interesting challenges that come with this.
 
 
-This is **not** science.
+This is **not science**.
 
 <!-- Note -->
 Nothing of what I am talking about is steeped in any scientific
