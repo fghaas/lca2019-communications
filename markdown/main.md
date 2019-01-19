@@ -59,6 +59,15 @@ needs notes and a summary, and you need to circulate these notes not
 only with everyone who attended the meeting, but with everyone who has
 a need-to-know.
 
+
+1. Meeting title
+2. Date, time, attendees
+3. Summary
+4. Discussion points (tabular)
+5. Action items
+
+<!-- Note -->
+
 Putting an executive summary at the very top is extraordinarily
 helpful so people can decide if they
 
@@ -68,7 +77,7 @@ helpful so people can decide if they
 * just keep in the back of their head that a meeting happened, that
   notes exist, and where they can find them when they need to refer
   back to them.
-  
+
 
 Whenever you need to thoroughly **brief a group of people on an
 important subject,** consider using a **5-paragraph format.**
