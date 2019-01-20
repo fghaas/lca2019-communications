@@ -60,3 +60,6 @@ to, watched, or read. Everything I say here is subject to debate and
 rebuttal, or you can simply have a different opinion.
 
 But it’s definitely **not** science.
+
+Now with all of that said, let me attempt to give a definition of a
+distributed team, according to my understanding:
