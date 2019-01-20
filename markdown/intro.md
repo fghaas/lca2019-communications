@@ -7,12 +7,34 @@ Florian Haas | [@xahteiwi](https://twitter.com/xahteiwi)
 
 linux.conf.au | January 2019
 
+<!-- Note -->
+
+Hi, my name is Florian and I’m here to talk to you about
+communications in distributed teams. I am stepping in for a talk by
+XYZ, which unfortunately had to be canceled/rescheduled due to
+unforeseen circumstances.
+
+Now, this talk is scheduled for 45 minutes and if my rehearsal timing
+is any indication, then I might be filling that time slot completely
+and we might not have time for questions in the end. Thus, since the
+LCA crowd is normally very active on Twitter, here’s what I’d like you
+to do: you see my Twitter handle up there on the screen, so if you
+have a question, please blurt it out on Twitter, tag my handle, and
+maybe add the `#lca2019` hashtag.
+
 
 Why am I talking here?
 
 <!-- Note -->
-I am turning 40 this year, have been in IT for about 20 years now, and
-out of that I have worked
+... or rather ...
+
+
+Why am **I** talking here?
+
+<!-- Note -->
+
+I am turning 40 this year, have been in IT for about 19 years now (18
+full-time), and out of that I have worked
 
 * in 4 successive companies, for all of which worked out of offices,
   for 11 years, 
