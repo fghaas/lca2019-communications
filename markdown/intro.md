@@ -10,7 +10,7 @@ linux.conf.au | January 2019
 <!-- Note -->
 
 Hi, my name is Florian and I’m here to talk to you about
-communications in distributed team. I am stepping in for a talk by
+communications in distributed teams. I am stepping in for a talk by
 XYZ, which unfortunately had to be canceled/rescheduled due to
 unforeseen circumstances.
 
