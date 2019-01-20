@@ -230,3 +230,7 @@ when dealing with incoming information.
 Following this approach does not mean that you’ll never be overwhelmed
 by the amount of information that you need to process. But it’ll
 greatly reduce that risk.
+
+
+Tasks without follow-up and follow-through are a waste of people’s
+time.
