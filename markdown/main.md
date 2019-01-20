@@ -35,15 +35,15 @@ A distributed team must **habitually externalise** information.
 | Video call        | 😐     | 🙁     | 🙁            |
 
 
-The only reason to use chat for collaboration is a need for immediate,
-interactive mutual feedback.
+The only reason to use **chat** for collaboration  
+is a need for **immediate, interactive mutual feedback.**
 
 
-The only reason to use video calls is to be able to pick up on
-nontextual and nonverbal cues.
+The only reason to use **video calls** is to be able  
+to **pick up on nontextual and nonverbal cues.**
 
 
-Every video call needs an agenda.
+**Every video call needs an agenda.**
 
 
 Until machines get intelligent enough to automatically transcribe and
@@ -80,7 +80,7 @@ helpful so people can decide if they
 
 
 Whenever you need to thoroughly **brief a group of people on an
-important subject,** consider using a **5-paragraph format.**
+important matter,** consider using a **5-paragraph format.**
 
 
 1. Situation
@@ -121,16 +121,17 @@ rather minor modifications.
    and with others in order to achieve your goal.
 
 
-“Please come back to me with your questions by 1500 UTC tomorrow” is
-far superior to “are there any questions?”
+“Please come back to me with your questions by 1500 UTC tomorrow”  
+is **far superior** to  
+“are there any questions?”
 
 
-The amount of incoming information in a distributed team can be
-daunting.
+The **amount of incoming information** in a distributed team  
+can be **daunting.**
 
 
-Consider using the “four-D” approach when dealing with incoming
-information.
+Consider using the **“four-D” approach**  
+when dealing with incoming information.
 
 (Hat tip to David Allen)
 
